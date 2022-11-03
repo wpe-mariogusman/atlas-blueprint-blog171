@@ -32,7 +32,7 @@ export default function Header({ className }) {
             <Link href="/">
               <a title="Home">
                 <Image
-                  src="/static/mario.png"
+                  src="/static/mariologo.png"
                   width={400}
                   height={80}
                   alt="Blueprint media logo"
