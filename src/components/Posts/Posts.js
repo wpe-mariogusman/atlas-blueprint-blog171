@@ -29,7 +29,7 @@ function Posts({ posts, intro, id }) {
 
           if (!image && appConfig.archiveDisplayFeaturedImage) {
             image = {
-              sourceUrl: 'https://www.kotaku.com.au/wp-content/uploads/sites/3/2021/05/26/8a1b0f77c92e288311660c96aad2d85b.jpg?quality=80&resize=720,405',
+              sourceUrl: '/static/8a1b0f77c92e288311660c96aad2d85b.webp',
               altText: 'Downtown Austin, Texas skyline',
             };
           }
