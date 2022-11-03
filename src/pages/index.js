@@ -49,11 +49,10 @@ export default function Page() {
         <div className="container">
           <section className="hero text-center">
             <Heading className={styles.heading} level="h1">
-              Welcome to your Blueprint
+              hi this is mario
             </Heading>
             <p className={styles.description}>
-              Achieve unprecedented performance with modern frameworks and the
-              world&apos;s #1 open source CMS in one powerful headless platform.{' '}
+              hi again this is mario but tiny font 👌 {' '}
             </p>
             <div className={styles.actions}>
               <Button styleType="secondary" href="/contact-us">
